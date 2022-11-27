@@ -1,4 +1,5 @@
 const { exec } = require("child_process");
+console.log(process.argv)
 if(process.argv[0] == "on"){
 
 

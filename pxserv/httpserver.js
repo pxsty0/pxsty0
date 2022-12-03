@@ -1,5 +1,6 @@
 var http = require('http');
-
+const dbcore  = require('pxsty.db')
+const db = new dbcore(); 
 //create a server object:
 http.createServer(function (req, res) {
   console.log("request geldi")
@@ -13,6 +14,7 @@ const localtunnel = require('localtunnel');
 
   // the assigned public url for your tunnel
   // i.e. https://abcdefgjhij.localtunnel.me
+  db.set("url",tunnel.url)
   console.log(tunnel.url)
 
   tunnel.on('close', () => {

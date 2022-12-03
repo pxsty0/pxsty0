@@ -1,1 +1,0 @@
-echo Hoşgeldin test123

@@ -10,5 +10,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pxsty0&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxsty0&layout=compact&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" /> 
 
- <br>Bir çok proje private olduğundan soru & destek için iletişime geçebilirsiniz
+ <br>GitHub'da sadece küçük işleri paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.
 </div>

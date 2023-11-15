@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>pxsty</h1>
-  <h3>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h3>
+
 <img src="https://komarev.com/ghpvc/?username=pxsty0&style=for-the-badge">
   <br>
  
@@ -12,4 +12,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxsty0&layout=compact&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" /> 
 
  <br>
+   <h4>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h4>
 </div>

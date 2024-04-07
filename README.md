@@ -69,7 +69,7 @@
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com/?user=pxsty0&theme=tokyonight"
+          src="https://streak-stats.demolab.com/?user=pxsty0&theme=tokyonight&count_private=true"
           alt="GitHub Stats"
         />
       </td>

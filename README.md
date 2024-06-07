@@ -86,6 +86,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pxsty@pxserv.net) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakok0/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pxsty)
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript        263 hrs 48 mins ████████████████▓░░░░░░░░   67.27 %
+JSON              21 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+C++               20 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+CSS               19 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+```
+
 <!--END_SECTION:waka-->
 
    <h4>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h4>

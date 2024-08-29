@@ -101,7 +101,7 @@
 
 ## Son 30 Günün Istatistikleri
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakax-->
 
 ```txt
 TypeScript        78 hrs 47 mins  █████████████████████▓░░░   86.38 %
@@ -110,7 +110,8 @@ JavaScript        3 hrs 16 mins   █░░░░░░░░░░░░░░�
 Other             57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakax-->
+<!-- okul açıldı artık okadar kod yazamicam gibi :/ -->
 
    <h4>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h4>
 </div>

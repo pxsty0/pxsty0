@@ -101,8 +101,8 @@
 
 ## Istatistikler
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
    <h4>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h4>
 </div>

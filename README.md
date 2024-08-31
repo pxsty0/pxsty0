@@ -102,6 +102,14 @@
 ## Istatistikler
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript        3 hrs 24 mins   ██████████████████▒░░░░░░   73.88 %
+JSON              19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other             18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Text              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+```
+
 <!--END_SECTION:waka-->
 
    <h4>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h4>

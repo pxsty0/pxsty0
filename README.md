@@ -99,24 +99,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pxsty@pxserv.net) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakok0/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pxsty)
 
-## Istatistikler
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript        274 hrs 52 mins ██████████▓░░░░░░░░░░░░░░   42.09 %
-TypeScript        229 hrs 34 mins ████████▓░░░░░░░░░░░░░░░░   35.15 %
-JSON              31 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-C++               29 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-CSS               25 hrs 58 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Rust              19 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-C                 15 hrs 42 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Other             8 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-HTML              4 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-TSConfig          1 hr 56 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-```
-
-<!--END_SECTION:waka-->
 
    <h4>GitHub'da sadece küçük işleri public olarak paylaştığım için projeler ve diğer sorular için iletişime geçebilirsiniz.</h4>
 </div>

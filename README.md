@@ -103,6 +103,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+JavaScript        286 hrs 52 mins ██████████▓░░░░░░░░░░░░░░   42.13 %
+TypeScript        239 hrs 46 mins ████████▓░░░░░░░░░░░░░░░░   35.21 %
+JSON              31 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+C++               29 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+CSS               27 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+```
+
 <!--END_SECTION:waka-->
 
    <h4>Geliştirmiş olduğum diğer kapalı kaynak projelerle ilgili Telegram'dan iletişime geçebilirsiniz.</h4>

@@ -66,7 +66,8 @@
 ![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![STM32 Badge](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  
+
+  <!-- 
   <h2>🚀 Geliştirdiğim Projeler</h2>
   <table>
     <tr>
@@ -90,7 +91,7 @@
       <td>Daha fazla proje için GitHub profilimi ziyaret edebilirsiniz.</td>
     </tr>
   </table>
-
+-->
   <h2>📬 İletişim</h2>
   <p>Benimle iletişime geçmek için aşağıdaki bağlantıları kullanabilirsiniz:</p>
   

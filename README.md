@@ -1,20 +1,10 @@
-
 <div align="center">
   <h1>pxsty</h1>
 
-<img src="https://komarev.com/ghpvc/?username=pxsty0&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=pxsty0&style=for-the-badge">
 
- 
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=pxsty0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" height="200"> 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pxsty0&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxsty0&layout=compact&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" /> 
--->
-
-
-
-# Tech Stack
+  <h2>📌 Kullandığım Teknolojiler</h2>  
+  
 ![C Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![C# Badge](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -76,29 +66,37 @@
 ![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![STM32 Badge](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<!--
-# GitHub Stats
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <thead>
+  
+  <h2>🚀 Geliştirdiğim Projeler</h2>
+  <table>
     <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=pxsty0&show_icons=true&locale=en&theme=tokyonight&count_private=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com/?user=pxsty0&theme=tokyonight&count_private=true"
-          alt="GitHub Stats"
-        />
-      </td>
+      <th>Görsel</th>
+      <th>Proje Adı</th>
+      <th>Açıklama</th>
     </tr>
-  </thead>
-</table> -->
+    <tr>
+      <td><img src="https://github.com/deneyapkart.png" alt="Deneyap Kart IDE" width="50"></td>
+      <td>Deneyap Kart IDE</td>
+      <td>Sıfırdan geliştirdiğim Deneyap Kart için bir geliştirme ortamı.</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/pxsty0.png" alt="LizzardJS" width="50"></td>
+      <td>LizzardJS</td>
+      <td>Google V8 motoru kullanılarak Rust ile geliştirilmiş bir JavaScript çalışma zamanı.</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/pxsty0.png" alt="Daha Fazlası" width="50"></td>
+      <td>Daha Fazlası</td>
+      <td>Daha fazla proje için GitHub profilimi ziyaret edebilirsiniz.</td>
+    </tr>
+  </table>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pxsty@pxserv.net) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakok0/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pxsty)
+  <h2>📬 İletişim</h2>
+  <p>Benimle iletişime geçmek için aşağıdaki bağlantıları kullanabilirsiniz:</p>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pxsty@pxserv.net)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakok0/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pxsty)
 
-
-   <h4>Geliştirmiş olduğum diğer kapalı kaynak projelerle ilgili Telegram'dan iletişime geçebilirsiniz.</h4>
+  <h4>Geliştirdiğim kapalı kaynak projeler hakkında detaylı bilgi almak için benimle Telegram üzerinden iletişime geçebilirsiniz.</h4>
 </div>

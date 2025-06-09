@@ -55,7 +55,6 @@
 ![libuv](https://img.shields.io/badge/libuv-403C3D?logo=libuv\&logoColor=fff\&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Glitch](https://img.shields.io/badge/Glitch-33F?logo=glitch\&logoColor=fff\&style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs\&logoColor=fff\&style=for-the-badge)
 
 

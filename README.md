@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>pxsty</h1>
+  <h1>Mustafa KÖK</h1>
 
   <img src="https://komarev.com/ghpvc/?username=pxsty0&style=for-the-badge">
   <h2>📌 Kullandığım Teknolojiler</h2>  
@@ -56,7 +56,15 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs\&logoColor=fff\&style=for-the-badge)
-
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=for-the-badge)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
   <!-- 
   <h2>🚀 Geliştirdiğim Projeler</h2>
